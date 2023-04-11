@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Medina</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 👨‍💻 All of my projects are available at [https://emmanuel-iota.vercel.app/](https://emmanuel-iota.vercel.app/)
 
