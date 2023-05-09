@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Medina</h1>
 
-- About Me: ¡Soy un desarrollador Full-Stack apasionado por la codificación!💻Mis habilidades incluyen HTML, CSS, JavaScript, React, Node.js, SQL y más. Me encanta aprender y colaborar con otros para crear aplicaciones web innovadoras. Encontrará algunos de mis últimos proyectos, que muestran mis habilidades y experiencia en el campo.
+- 💻 About Me: ¡Soy un desarrollador Full-Stack apasionado por la codificación!💻Mis habilidades incluyen HTML, CSS, JavaScript, React, Node.js, SQL y más. Me encanta aprender y colaborar con otros para crear aplicaciones web innovadoras. Encontrará algunos de mis últimos proyectos, que muestran mis habilidades y experiencia en el campo.
 
 - 👨‍💻 All of my projects are available at [https://emmanuel-iota.vercel.app/](https://emmanuel-iota.vercel.app/)
 
