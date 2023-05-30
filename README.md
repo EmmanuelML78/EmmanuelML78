@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Medina</h1>
+
 
 # 💫 About Me:
 Soy un desarrollador Full Stack con experiencia en la creación de proyectos utilizando una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, React, Redux y Node.js, entre otros. Mi enfoque abarca tanto el desarrollo del lado del cliente como del servidor, lo que me permite construir aplicaciones web completas y escalables. Disfruto tanto del trabajo en equipo como de la autonomía. Soy un apasionado de aprender y mantenerme actualizado, ya que considero que esto es fundamental para alcanzar los objetivos establecidos en los proyectos en los que participo.<br><br>👨‍💻 All of my projects are available at https://emmanuel-iota.vercel.app/
