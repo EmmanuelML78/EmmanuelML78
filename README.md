@@ -1,4 +1,11 @@
+<div id="header" align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Angel-ISO.Angel-ISO" />
 
+<h1 align="center">
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Emmanuel+Medina!;" />
+</h1>
+
+</div>
 
 # 💫 About Me:
 Soy un desarrollador Full Stack con experiencia en proyectos web utilizando HTML, CSS, JavaScript, React, Redux y Node.js. Mi enfoque abarca tanto el desarrollo del lado del cliente como del servidor, permitiéndome construir aplicaciones completas y escalables. Disfruto del trabajo en equipo y la autonomía, y me apasiona aprender y mantenerme actualizado para alcanzar los objetivos en mis proyectos.<br><br>👨‍💻 All of my projects are available at https://emmanuel-iota.vercel.app/
