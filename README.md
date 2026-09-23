@@ -100,10 +100,12 @@ CRM platform for managing leads, opportunities and commercial workflows.
 ## `> github_stats`
 
 <p align="center">
-  <!-- aquí pondremos nuestras estadísticas automáticas -->
+  <img
+    src="./assets/github-stats.svg"
+    width="850"
+    alt="Emmanuel Medina GitHub Statistics"
+  />
 </p>
-
-<br>
 
 ## `> currently`
 
