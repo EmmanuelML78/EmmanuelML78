@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/emmanuel-ascii.png" width="500" alt="Emmanuel Medina ASCII Portrait" />
+  <img src="https://github.com/user-attachments/assets/7299c6d6-b2c5-4706-9570-ad71d31b239f" width="500" alt="Emmanuel Medina ASCII Portrait" />
 </p>
 
 <h1 align="center">Emmanuel Medina</h1>
